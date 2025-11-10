@@ -1,15 +1,15 @@
 # Marketing-Campaign-Analysis
 This project analyzes customer behavior and marketing campaign effectiveness using SQL for data extraction and transformation, complemented by Excel visualizations.
 
-## Dataset
+## 📊 Dataset
 - **Source:** Kaggle  
 - **Contents:** Customer demographics, purchasing patterns, engagement metrics  
 
-## Tools & Methods
+## 🛠️ Tools and Methods
 - **SQL Queries:** Data extraction, cleaning, transformation, and analysis  
 - **Excel:** Charts and visualizations  
 
-## Key Business Questions
+## 🎯 Key Business Questions
 - Which channel represents the majority of purchases: web, catalog, or
 store?
 - What percentage of customers can be classified as high, medium, or low
@@ -26,7 +26,7 @@ customers?
 - Is there a relationship between the number of web visits per
 month and the total spending of customers?
 
-## Insights
+## 💡 Insights
 - Channel performance: Physical stores lead with 44% of purchases, followed by Web (31%) and Catalog (20%). Recommendation: Strengthen Web marketing while maintaining in-store performance.
 
 - Customer spending segments: High spenders ~44%, Low ~40%, Medium ~15%. Recommendation: Target medium spenders to increase engagement and upselling.
@@ -41,7 +41,8 @@ month and the total spending of customers?
 
 > These insights can help improve marketing strategies, prioritize high-value customers, and optimize engagement efforts.
 
-## Project Structure
+```
+## 📂 Project Structure
 Marketing-Campaign-Analysis/
 ├── Marketing_Campaign_Report.pdf       # Project documentation
 ├── SQL_Queries/                        # Folder with SQL scripts
@@ -60,4 +61,4 @@ Marketing-Campaign-Analysis/
     ├── chart4_children_spending.png
     ├── chart5_customer_recency.png
     └── chart6_web_visits_vs_spending.png
-
+```
